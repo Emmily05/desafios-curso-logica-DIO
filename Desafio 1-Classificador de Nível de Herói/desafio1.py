@@ -22,4 +22,6 @@ def main():
 
     level = classifies_hero_level(xp_hero)
     print(f"O Herói de nome {name_hero} está no nível de {level}") 
+
+main()
     
